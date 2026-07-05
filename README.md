@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
