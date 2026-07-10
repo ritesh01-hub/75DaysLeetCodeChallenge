@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+| [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Simulation
 |  |
