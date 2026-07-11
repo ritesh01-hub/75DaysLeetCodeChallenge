@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
+| [2685-count-the-number-of-complete-components](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [2685-count-the-number-of-complete-components](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [2685-count-the-number-of-complete-components](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Interactive
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [2685-count-the-number-of-complete-components](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Simulation
 |  |
 | ------- |
