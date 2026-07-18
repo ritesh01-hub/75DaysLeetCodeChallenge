@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
