@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -508,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
