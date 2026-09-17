@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
