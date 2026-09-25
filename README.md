@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1927-sum-game) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
@@ -707,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Data Stream
 |  |
