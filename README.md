@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritesh01-hub/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
